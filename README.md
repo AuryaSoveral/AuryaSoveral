@@ -1,16 +1,45 @@
-## Hi there 👋
+Olá, eu sou a Aurya Soveral 👋
 
-<!--
-**AuryaSoveral/AuryaSoveral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia, interfaces modernas e experiência do usuário.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos utilizando HTML, CSS e JavaScript, criando aplicações responsivas, organizadas e focadas em usabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha experiência anterior na área de vendas me trouxe uma visão estratégica sobre comunicação, comportamento do usuário e resolução de problemas — habilidades que hoje aplico diretamente no desenvolvimento web.<br>
+
+ 💻 Tecnologias
+ <div style="display: flex">
+
+- HTML5 <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+- CSS3 <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+- JavaScript <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+- Git <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+- GitHub <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div><br>
+Atualmente estudando
+
+- React.js
+- APIs REST
+- Acessibilidade (WCAG)
+- UX/UI
+- Boas práticas de Front-End
+
+Projetos
+
+- Casa de Chá — Website para loja de decoração afetiva
+- AR Burin — Website para marcenaria de móveis sob medida
+- Landing Pages Responsivas
+- Projetos interativos com JavaScript
+
+🎯 Objetivo
+
+Atuar como Desenvolvedora Front-End, criando interfaces modernas, intuitivas e funcionais, enquanto continuo evoluindo profissionalmente na área da tecnologia.
+
+📫 Contato
+
+💼 LinkedIn: linkedin.com/in/auryasoveral  
+📧 E-mail: auryasoveraldev@hotmail.com  
+💻 GitHub: github.com/AuryaSoveral
