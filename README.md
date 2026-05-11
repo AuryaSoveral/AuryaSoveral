@@ -4,7 +4,7 @@ Desenvolvedora Front-End em transição de carreira, apaixonada por tecnologia, 
 
 Atualmente desenvolvo projetos utilizando HTML, CSS e JavaScript, criando aplicações responsivas, organizadas e focadas em usabilidade.
 
-Minha experiência anterior na área de vendas me trouxe uma visão estratégica sobre comunicação, comportamento do usuário e resolução de problemas — habilidades que hoje aplico diretamente no desenvolvimento web.<br>
+Minha experiência anterior na área de vendas me trouxe uma visão estratégica sobre comunicação, comportamento do usuário e resolução de problemas — habilidades que hoje utilizo diretamente no desenvolvimento web.<br>
 
  💻 Tecnologias
  <div style="display: flex">
