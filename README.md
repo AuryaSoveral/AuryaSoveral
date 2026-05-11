@@ -34,7 +34,7 @@ Projetos
 
 🎯 Objetivo
 
-Atuar como Desenvolvedora Front-End, criando interfaces modernas, intuitivas e funcionais, enquanto continuo evoluindo profissionalmente na área da tecnologia.
+Atuar como Desenvolvedora Front-End, criando interfaces modernas, intuitivas e funcionais, enquanto busco evoluir profissionalmente na área da tecnologia.
 
 📫 Contato
 
