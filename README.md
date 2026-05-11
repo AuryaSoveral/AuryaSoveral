@@ -23,8 +23,6 @@ Atualmente estudando
 
 - React.js
 - APIs REST
-- Acessibilidade (WCAG)
-- UX/UI
 - Boas práticas de Front-End
 
 Projetos
